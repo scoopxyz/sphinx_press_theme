@@ -4,5 +4,4 @@
 dist
 __pycache__
 *.egg-info
-docs/build
 demo/_build
