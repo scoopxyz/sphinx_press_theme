@@ -7,8 +7,6 @@ python:
         path: .
         extra_requirements:
             - docs
-      - method: setuptools
-        path: another/package
    system_packages: true
 sphinx:
   builder: html
